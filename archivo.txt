@@ -1,6 +1,0 @@
-Hola,
-mi nombre es Mauricio berisvil
-
-este es el curso de Bash.
-
-Esta es la leccion sobre el editor nano.
