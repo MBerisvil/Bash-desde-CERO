@@ -21,6 +21,6 @@ No necesitas instalar nada extra si ya tienes Bash instalado en tu sistema.
 Para verificarlo, abre tu terminal.
 
 <p align="center">
-![Bash](bash-demo.png)
-</p>  
+  <img src="bash-demo.png" alt="Bash">
+</p>
 
