@@ -1,4 +1,6 @@
-![Logo Bash desde cero con Warp](./bash_warp.png)
+<p align="center">
+  <img src="./bash_warp.png" alt="Logo Bash desde cero con Warp" width="550"/>
+</p>
 
 # Bash desde CERO
 
